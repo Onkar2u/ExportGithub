@@ -1,0 +1,243 @@
+
+SHEETS
+{"qInfo":{"qId":"QuRM","qType":"sheet"},"qMeta":{"title":"Past Dues","description":"See which customers have past due invoices.","_resourcetype":"app.object","_objecttype":"sheet","id":"QuRM","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.721Z","modifiedDate":"2024-05-30T00:46:54.762Z","publishTime":"2024-05-30T00:46:54.762Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"zBAFH","qType":"sheet"},"qMeta":{"title":"Transactions","description":"See an overview of customer invoices.","_resourcetype":"app.object","_objecttype":"sheet","id":"zBAFH","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.714Z","modifiedDate":"2024-05-30T00:46:53.023Z","publishTime":"2024-05-30T00:46:53.023Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"aphzPL","qType":"sheet"},"qMeta":{"title":"US Regional Analysis","description":"See the breakdown of sales, customers and shipments by state.","_resourcetype":"app.object","_objecttype":"sheet","id":"aphzPL","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.715Z","modifiedDate":"2024-05-30T00:46:51.019Z","publishTime":"2024-05-30T00:46:51.019Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"hxzkf","qType":"sheet"},"qMeta":{"title":"Sales and Margin","description":"See the overall percentage of sales for each of the product groups in the sales portfolio of each Sales Rep.","_resourcetype":"app.object","_objecttype":"sheet","id":"hxzkf","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.287Z","modifiedDate":"2024-05-30T00:46:49.394Z","publishTime":"2024-05-30T00:46:49.394Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"UmZp","qType":"sheet"},"qMeta":{"title":"Shipments","description":"Analyze shipment history over the last year.","_resourcetype":"app.object","_objecttype":"sheet","id":"UmZp","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.306Z","modifiedDate":"2024-05-30T00:46:47.783Z","publishTime":"2024-05-30T00:46:47.783Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"JTxTF","qType":"sheet"},"qMeta":{"title":"Top Customers","description":"Analyze the sales over time of the top customers.","_resourcetype":"app.object","_objecttype":"sheet","id":"JTxTF","approved":true,"published":true,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.712Z","modifiedDate":"2024-05-30T00:46:46.234Z","publishTime":"2024-05-30T00:46:46.234Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"XuWLHFK","qType":"sheet"},"qMeta":{"_resourcetype":"app.object","_objecttype":"sheet","id":"XuWLHFK","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.673Z","modifiedDate":"2024-05-30T00:46:43.917Z","publishTime":"2024-05-30T00:46:43.917Z","published":true,"IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Performance Dashboard","description":"View sales performance and variance year over year, Analyze actual sales vs budget"},"qData":[]}
+{"qInfo":{"qId":"rPzsnHT","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"rPzsnHT","approved":false,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2024-09-12T06:48:53.659Z","modifiedDate":"2024-09-16T06:45:41.749Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"feTjNWz","type":"table","col":0,"row":0,"colspan":24,"rowspan":12}
+{"name":"vLBzTah","type":"table","col":4,"row":0,"colspan":20,"rowspan":12}
+{"name":"gkctau","type":"filterpane","col":0,"row":0,"colspan":3,"rowspan":12}
+{"name":"kQPzCm","type":"map","col":14,"row":1,"colspan":10,"rowspan":5}
+{"name":"YPhqut","type":"map","col":14,"row":7,"colspan":10,"rowspan":5}
+{"name":"VQFJxg","type":"filterpane","col":0,"row":0,"colspan":24,"rowspan":1}
+{"name":"tVJVu","type":"map","col":0,"row":1,"colspan":13,"rowspan":11}
+{"name":"xvZYRNK","type":"scatterplot","col":4,"row":0,"colspan":20,"rowspan":6}
+{"name":"UkushK","type":"barchart","col":4,"row":6,"colspan":20,"rowspan":6}
+{"name":"HnGSP","type":"text-image","col":0,"row":0,"colspan":4,"rowspan":12}
+{"name":"PvgapdM","type":"linechart","col":0,"row":7,"colspan":24,"rowspan":5}
+{"name":"PPVbPr","type":"combochart","col":0,"row":2,"colspan":24,"rowspan":4}
+{"name":"zGjyS","type":"text-image","col":0,"row":0,"colspan":24,"rowspan":2}
+{"name":"fPzFZu","type":"barchart","col":5,"row":7,"colspan":6,"rowspan":5}
+{"name":"umjpJqs","type":"linechart","col":11,"row":7,"colspan":13,"rowspan":5}
+{"name":"Btbd","type":"filterpane","col":0,"row":0,"colspan":4,"rowspan":1}
+{"name":"ZpKUVca","type":"filterpane","col":0,"row":1,"colspan":4,"rowspan":1}
+{"name":"Zdupnm","type":"filterpane","col":0,"row":2,"colspan":4,"rowspan":5}
+{"name":"cYYcYm","type":"filterpane","col":0,"row":7,"colspan":4,"rowspan":5}
+{"name":"enzmfm","type":"barchart","col":4,"row":0,"colspan":20,"rowspan":7}
+{"name":"SqDbku","type":"barchart","col":9,"row":0,"colspan":15,"rowspan":7}
+{"name":"LZgFjmq","type":"filterpane","col":0,"row":0,"colspan":3,"rowspan":12}
+{"name":"eJNKyvb","type":"text-image","col":4,"row":0,"colspan":5,"rowspan":2}
+{"name":"WRAtBu","type":"text-image","col":4,"row":2,"colspan":5,"rowspan":2}
+{"name":"BMPav","type":"text-image","col":4,"row":4,"colspan":5,"rowspan":2}
+{"name":"myEVngw","type":"linechart","col":4,"row":7,"colspan":20,"rowspan":5}
+{"name":"ApZkJu","type":"text-image","col":0,"row":0,"colspan":21,"rowspan":2,"bounds":{"y":0,"x":0,"width":87.5,"height":16.666666666666664}}
+{"name":"dECWHAj","type":"table","col":0,"row":2,"colspan":12,"rowspan":4,"bounds":{"y":16.666666666666664,"x":0,"width":50,"height":33.33333333333333}}
+
+DIMENSIONS
+{"qInfo":{"qId":"wrBEt","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"wrBEt","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.272Z","modifiedDate":"2023-06-16T04:11:33.272Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Division","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"xyjwAr","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"xyjwAr","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.284Z","modifiedDate":"2023-06-16T04:11:33.284Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"State","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"Cvbxj","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"Cvbxj","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.296Z","modifiedDate":"2023-06-16T04:11:33.296Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Customer","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"XXVFDX","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"XXVFDX","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.297Z","modifiedDate":"2023-06-16T04:11:33.297Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Region","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"YXXFVb","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"YXXFVb","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.304Z","modifiedDate":"2023-06-16T04:11:33.304Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Month","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"ujLeFS","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"ujLeFS","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.305Z","modifiedDate":"2023-06-16T04:11:33.305Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"YearMonth","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"wJSVej","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"wJSVej","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.307Z","modifiedDate":"2023-06-16T04:11:33.307Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Sales Rep","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"PxJf","qType":"dimension"},"qMeta":{"_resourcetype":"app.object","_objecttype":"dimension","id":"PxJf","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.326Z","modifiedDate":"2023-06-16T04:11:33.326Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Year","description":"","tags":[]},"qData":[]}
+{"qInfo":{"qId":"WyjCnj","qType":"dimension"},"qMeta":{"title":"Product Group","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"WyjCnj","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.728Z","modifiedDate":"2023-06-16T04:11:33.728Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"nmSNGjD","qType":"dimension"},"qMeta":{"title":"Region > Cust","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"nmSNGjD","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.728Z","modifiedDate":"2023-06-16T04:11:33.728Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"aSrjAf","qType":"dimension"},"qMeta":{"title":"Promised Delivery Date","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"aSrjAf","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.728Z","modifiedDate":"2023-06-16T04:11:33.728Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"BQnV","qType":"dimension"},"qMeta":{"title":"Product Line","description":"","tags":[],"_resourcetype":"app.object","_objecttype":"dimension","id":"BQnV","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.729Z","modifiedDate":"2023-06-16T04:11:33.729Z","privileges":["read","change_owner"]},"qData":[]}
+
+MASTER OBJECTS
+{"qInfo":{"qId":"aazSNt","qType":"masterobject"},"qMeta":{"title":"Sales: YTD vs LYTD vs YTD Goals","description":"Compare Sales, LYTD sales and Sales goal in a single view","tags":["LYTD Sales","Sales","Sales Goal"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"aazSNt","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.727Z","modifiedDate":"2023-11-20T04:22:11.146Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"RmuRp","qType":"masterobject"},"qMeta":{"title":"Filter Pane","tags":[],"_resourcetype":"app.object","_objecttype":"masterobject","id":"RmuRp","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.268Z","modifiedDate":"2023-06-16T04:11:33.268Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"GXcGS","qType":"masterobject"},"qMeta":{"title":"Ships to","description":"Visualize where the shipments are going to","tags":["Map","Shipments"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"GXcGS","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.318Z","modifiedDate":"2023-06-16T04:11:33.318Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"CRhJC","qType":"masterobject"},"qMeta":{"_resourcetype":"app.object","_objecttype":"masterobject","id":"CRhJC","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.621Z","modifiedDate":"2023-06-16T04:11:33.621Z","IsTemporary":false,"approved":true,"privileges":["read","change_owner"],"title":"Sales by year","description":"Year by year sales comparison","tags":["Sales","Year"]},"qData":[]}
+{"qInfo":{"qId":"YdrxkTC","qType":"masterobject"},"qMeta":{"title":"Sales Variation Widget","description":"Sales variation widget contains:\nSales Variation %, YTD Sales, and LYTD Sales","tags":["Sales"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"YdrxkTC","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.711Z","modifiedDate":"2023-06-16T04:11:33.711Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"ahcKhCW","qType":"masterobject"},"qMeta":{"title":"Margin Variation Widget","description":"Including YTD Margin and LYTD Margin","tags":["Margin"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"ahcKhCW","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.715Z","modifiedDate":"2023-06-16T04:11:33.715Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"PtJP","qType":"masterobject"},"qMeta":{"title":"Total Sales by Rep and by Product Group","description":"This chart works well when in combination with Total Sales vs. Gross Profit Margin Chart and displays as it name indicates the sales by product and by rep","tags":["Product Group","Sales","Sales Rep"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"PtJP","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.716Z","modifiedDate":"2023-06-16T04:11:33.716Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"XWxKDzh","qType":"masterobject"},"qMeta":{"title":"Top Customers","description":"All time top customers by sales, sales margin and sales margin %","tags":["Margin","Sales"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"XWxKDzh","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.717Z","modifiedDate":"2023-06-16T04:11:33.717Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"CQgDDy","qType":"masterobject"},"qMeta":{"title":"Number of shipments vs late vs on time","description":"Shipment performance over time","tags":["Late","Month","On Time","Shipment","Year"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"CQgDDy","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.718Z","modifiedDate":"2023-06-16T04:11:33.718Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"AjzmQZV","qType":"masterobject"},"qMeta":{"title":"% On time shipments","description":"Display % on-time  shipments over time","tags":["Month","Shipments","Year"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"AjzmQZV","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.719Z","modifiedDate":"2023-06-16T04:11:33.719Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"YGLsTq","qType":"masterobject"},"qMeta":{"title":"Sales Evolution","description":"Visualize sales over time","tags":["Sales","Time"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"YGLsTq","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.720Z","modifiedDate":"2023-06-16T04:11:33.720Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"Vgycp","qType":"masterobject"},"qMeta":{"title":"Sales and number of customers","description":"Visual correlation on Sales and Number of Customers","tags":["Customers","Month","Sales","Year"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"Vgycp","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.722Z","modifiedDate":"2023-06-16T04:11:33.722Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"pRtYp","qType":"masterobject"},"qMeta":{"title":"Sales vs Budget Widget","description":"Sales & Budget (Sales Goal) Comparison","tags":["Budget","Goal","Sales"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"pRtYp","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.723Z","modifiedDate":"2023-06-16T04:11:33.723Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"haLs","qType":"masterobject"},"qMeta":{"title":"Customers","description":"Map with number of customers by US State","tags":["Customers","Map","States"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"haLs","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.724Z","modifiedDate":"2023-06-16T04:11:33.724Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"WLSpF","qType":"masterobject"},"qMeta":{"title":"Total Sales vs. Gross Profit Margin %","description":"Correlation between Sales and GPM%","tags":["GPM","Margin","Product Group","Sales"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"WLSpF","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.725Z","modifiedDate":"2023-06-16T04:11:33.725Z","privileges":["read","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"gXPYhnb","qType":"masterobject"},"qMeta":{"title":"Sales by State","description":"Map describing sales by US State","tags":["Map","Sales","States"],"_resourcetype":"app.object","_objecttype":"masterobject","id":"gXPYhnb","approved":true,"published":false,"owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","createdDate":"2023-06-16T04:11:33.726Z","modifiedDate":"2023-06-16T04:11:33.726Z","privileges":["read","change_owner"]},"qData":[]}
+
+VARIABLES
+{"qName":"vAdj","qDefinition":"730","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"89f251d9-740c-42e0-8178-364b003c07b6","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vReloadTime","qDefinition":"= MakeDate(2010,11,9)+ 0.493055556\n\/\/39441.093055556","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"a505d9c7-719e-4cfb-9d78-108750e0b0b8","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Price2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ac935c78-6fe6-412a-a396-dfe6833c931f","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Qty2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"19eba4b3-d7e2-40e4-b789-4e6029a9dc72","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"OffsetNumber","qDefinition":"730","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"ff158336-1480-412b-9b37-f483e73f10d8","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Price3","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"cdefd152-af55-498e-b957-3c12e2784c43","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Cost2","qDefinition":"0.00","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e771a774-9009-4e00-9756-b32cc6d57e83","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Group1","qDefinition":"\"American Pimento Loaf\",\"American Potato Salad\"","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"576a73d1-9a9a-4e20-b70e-400b2d99af58","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"Group2","qDefinition":"\"Atomic Bubble Gum\",\"Applause Canned Mixed Fruit\",\"Applause Canned Peaches\",\"American Potato Salad\",\"American Sliced Ham\",\"American Sliced Chicken\",\"American Turkey Hot Dogs\",\"American Roasted Chicken\"","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"a97f026f-21fa-4e6e-8a78-25089eecaf80","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vStep1","qDefinition":"-1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"c76f475f-d2c4-4d25-ad6f-76d0619fb127","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vStep2","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"a8150499-bdcf-44c1-ac3f-6727ed43aa37","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":150,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":12,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":12,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":9,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":54,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"Division","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
+{"qName":"Division Name","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Business Family","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Customer Type","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Customer Type Name","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Channel","qCardinal":8,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Channel Name","qCardinal":7,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Category Code 5","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Zone Mgr","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Zone Mgr Name","qCardinal":9,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Category Code 7","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Regional Sales Mgr","qCardinal":19,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Regional Sales Mgr Name","qCardinal":19,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Distribution Channel Mgr","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Distribution Channel Mgr Name","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Region Code","qCardinal":6,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
+{"qName":"Region Name","qCardinal":6,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Price Discount Cde 4","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Line of Business","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Sales Volume","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Customer","qCardinal":638,"qTags":["$text"],"qSrcTables":["Customers"]}
+{"qName":"Address Number","qCardinal":637,"qTags":["$key","$ascii","$text"],"qSrcTables":["Customers","CustomerAddress","SalesDetails"]}
+{"qName":"Customer Number","qCardinal":637,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
+{"qName":"Consolidated","qCardinal":481,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
+{"qName":"Search Type","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Phone","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Business Unit","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["Customers"]}
+{"qName":"SIC Code","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Tax Certificate","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["Customers"]}
+{"qName":"Customer Address 1","qCardinal":420,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"Customer Address 2","qCardinal":84,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"Customer Address 3","qCardinal":20,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"Customer Address 4","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"Zip Code","qCardinal":375,"qTags":[],"qSrcTables":["CustomerAddress"]}
+{"qName":"City","qCardinal":344,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"County","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"State","qCardinal":52,"qTags":["$key","$ascii","$text"],"qSrcTables":["CustomerAddress","Province"]}
+{"qName":"Country","qCardinal":46,"qTags":["$ascii","$text"],"qSrcTables":["CustomerAddress"]}
+{"qName":"BudKey","qCardinal":637,"qTags":["$key","$ascii","$text"],"qSrcTables":["SalesDetails","FinalYTDBudget"]}
+{"qName":"AggKey","qCardinal":64118,"qTags":["$key","$ascii","$text"],"qSrcTables":["SalesDetails","AggSales"]}
+{"qName":"Ship To","qCardinal":1009,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Rep","qCardinal":64,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Rep Name","qCardinal":63,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Item Class","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Item Class Desc","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"CustKey","qCardinal":637,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Family Class","qCardinal":36,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Amount Based on List Price","qCardinal":8077,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Line Desc 1","qCardinal":827,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Invoice Number","qCardinal":60268,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Backlog Amount","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Quantity","qCardinal":359,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Qty Backordered","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Actual Delivery Date","qCardinal":506,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails"]}
+{"qName":"Last Status","qCardinal":17,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Number Of Days Late","qCardinal":142,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Doc Type","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Order Status Primary","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Order Status","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Line Number","qCardinal":508,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Item Number","qCardinal":13840,"qTags":[],"qSrcTables":["SalesDetails"]}
+{"qName":"Line Type","qCardinal":12,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"List Price","qCardinal":2456,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Cost Amount","qCardinal":10045,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Order Margin","qCardinal":3327,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Open Order Cost Amount","qCardinal":2332,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Discount Amount","qCardinal":32988,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Invoice Date","qCardinal":508,"qTags":["$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails"]}
+{"qName":"Company Number Detail","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Payment Terms","qCardinal":35,"qTags":[],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Unit Cost Price","qCardinal":3224,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Open Order Quantity","qCardinal":168,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Unit Price","qCardinal":11470,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Business Unit Details","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Next Status","qCardinal":9,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Promised Delivery Date","qCardinal":601,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Margin Amount","qCardinal":40344,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"U\/M","qCardinal":4,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Parent Address Number","qCardinal":607,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Open Order Amount","qCardinal":3000,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Amount","qCardinal":29395,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"BackOrder Amount","qCardinal":2353,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Sales Price","qCardinal":25931,"qTags":["$numeric"],"qSrcTables":["SalesDetails"]}
+{"qName":"Address Order Number","qCardinal":47002,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Late Shipment","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"Order Type Detail","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["SalesDetails"]}
+{"qName":"Shipments","qCardinal":64798,"qTags":["$numeric","$integer"],"qSrcTables":["SalesDetails"]}
+{"qName":"DateKey","qCardinal":533,"qTags":["$key","$numeric","$integer","$timestamp","$date"],"qSrcTables":["SalesDetails","Dates2"]}
+{"qName":"Order Number","qCardinal":47002,"qTags":["$key","$numeric","$integer"],"qSrcTables":["SalesDetails","FinalSalesHeader"]}
+{"qName":"Item-Branch Key","qCardinal":920,"qTags":["$key","$ascii","$text"],"qSrcTables":["SalesDetails","FinalItemBranch"]}
+{"qName":"Key","qCardinal":203404,"qTags":["$key","$ascii","$text"],"qSrcTables":["SalesDetails","Sales"]}
+{"qName":"Address Number Header","qCardinal":610,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Order Gross Amount","qCardinal":6643,"qTags":["$numeric"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Order Type Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Business Unit Order Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Order Date Header","qCardinal":581,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Hold Orders Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Company Number Header","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Stop Code Header","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Zone Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Hold Code Header","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Ship To Address Header","qCardinal":750,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Parent Address Number Header","qCardinal":417,"qTags":["$numeric","$integer"],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Orderby Header","qCardinal":839,"qTags":[],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Freight Code Header","qCardinal":6,"qTags":[],"qSrcTables":["FinalSalesHeader"]}
+{"qName":"Day","qCardinal":31,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"Month","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"Week","qCardinal":52,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"Weekday","qCardinal":7,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"Year","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"YearMonth","qCardinal":24,"qTags":["$numeric","$integer"],"qSrcTables":["Dates2"]}
+{"qName":"NoOfItem","qCardinal":215,"qTags":["$numeric","$integer"],"qSrcTables":["Sales"]}
+{"qName":"MaxNoOfItem","qCardinal":136,"qTags":["$numeric","$integer"],"qSrcTables":["Sales"]}
+{"qName":"YTD Budget Amount","qCardinal":383,"qTags":["$numeric"],"qSrcTables":["FinalYTDBudget"]}
+{"qName":"TM Budget Amount","qCardinal":291,"qTags":["$numeric"],"qSrcTables":["FinalYTDBudget"]}
+{"qName":"YTD Sales Amount","qCardinal":11126,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY YTD Sales Amount","qCardinal":12104,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"TM Sales Amount","qCardinal":4057,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY TM Sales Amount","qCardinal":4348,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY Tot Sales Amount","qCardinal":18473,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"YTD Sales Margin Amount","qCardinal":13653,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY YTD Sales Margin Amount","qCardinal":14894,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"TM Sales Margin Amount","qCardinal":4477,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY TM Sales Margin Amount","qCardinal":5004,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"LY Tot Sales Margin Amount","qCardinal":21875,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"Current Open Amount","qCardinal":2647,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"Current BackOrder Amount","qCardinal":2017,"qTags":["$numeric"],"qSrcTables":["AggSales"]}
+{"qName":"Current Backlog Amount","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["AggSales"]}
+{"qName":"Item Branch 3rd Item Number","qCardinal":2593,"qTags":[],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Branch G\/L Category","qCardinal":20,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Short Name","qCardinal":827,"qTags":["$key","$numeric","$integer"],"qSrcTables":["FinalItemBranch","FinalItemMaster"]}
+{"qName":"Item Branch 2nd Item Number","qCardinal":2593,"qTags":[],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Branch Reorder Quantity","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Horsepower","qCardinal":3,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Branch Category Code 6","qCardinal":20,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Branch Category Code 7","qCardinal":1,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Branch Primary Supplier","qCardinal":142,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemBranch"]}
+{"qName":"Item Count","qCardinal":827,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Price Group","qCardinal":12,"qTags":[],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Department","qCardinal":18,"qTags":[],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Line","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Line Desc","qCardinal":2,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Group","qCardinal":17,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Group Desc","qCardinal":17,"qTags":["$ascii","$text"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Type","qCardinal":31,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Master Planning Family","qCardinal":33,"qTags":[],"qSrcTables":["FinalItemMaster"]}
+{"qName":"Product Sub Group","qCardinal":70,"qTags":["$numeric","$integer"],"qSrcTables":["FinalItemMaster"]}
+{"qName":"state_abbr","qCardinal":55,"qTags":["$key","$ascii","$text"],"qSrcTables":["Province","US States ISO CODE 2 polygons"]}
+{"qName":"state_name","qCardinal":51,"qTags":["$ascii","$text"],"qSrcTables":["Province"]}
+{"qName":"US States.Area","qCardinal":49,"qTags":["$ascii","$text","$geomultipolygon"],"qSrcTables":["US States ISO CODE 2 polygons"]}
