@@ -35,7 +35,7 @@ MEASURES
 {"qInfo":{"qId":"WfEFfN","qType":"measure"},"qMeta":{"title":"% to Commit","description":"","createdDate":"2022-12-22T03:11:18.483Z","modifiedDate":"2022-12-22T03:11:18.483Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"measure","id":"WfEFfN","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
 
 VARIABLES
-{"qName":"vReloadstatus","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"9d46ffbf-63c2-4356-ab2d-e74745fe9967","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"vReloadstatus","qDefinition":"2","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"9d46ffbf-63c2-4356-ab2d-e74745fe9967","qType":"variable"},"qData":[],"qIsScriptCreated":true}
 {"qName":"index","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"4c34e6a5-21c3-4e99-ab37-df77cb749c31","qType":"variable"},"qData":[]}
 {"qName":"currentName","qDefinition":"Original","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"fbe57325-8313-4a4e-baef-e94be3abdbce","qType":"variable"},"qData":[]}
 {"qName":"V_milestone1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"4961deb3-af5a-4a2c-864c-cd0d908a4ed3","qType":"variable"},"qData":[]}
@@ -50,11 +50,11 @@ FIELDS
 {"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
 {"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":5,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
 {"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qName":"SalesRep","qCardinal":12,"qTags":["$ascii","$text"],"qSrcTables":["ScatterPlot"]}
-{"qName":"Target","qCardinal":124,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast1"]}
-{"qName":"Commit","qCardinal":126,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast1"]}
+{"qName":"SalesRep","qCardinal":13,"qTags":["$ascii","$text"],"qSrcTables":["ScatterPlot"]}
+{"qName":"Target","qCardinal":124,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast2"]}
+{"qName":"Commit","qCardinal":126,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast2"]}
 {"qName":"Milestone1","qCardinal":11,"qTags":["$numeric","$integer"],"qSrcTables":["ScatterPlot"]}
 {"qName":"Milestone2","qCardinal":10,"qTags":["$numeric","$integer"],"qSrcTables":["ScatterPlot"]}
-{"qName":"Region","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Forecast1"]}
-{"qName":"Sales Rep","qCardinal":114,"qTags":["$ascii","$text"],"qSrcTables":["Forecast1"]}
-{"qName":"% to Commit","qCardinal":79,"qTags":["$numeric"],"qSrcTables":["Forecast1"]}
+{"qName":"Region","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Forecast2"]}
+{"qName":"Regions","qCardinal":114,"qTags":["$ascii","$text"],"qSrcTables":["Forecast2"]}
+{"qName":"% to Commit","qCardinal":78,"qTags":["$numeric"],"qSrcTables":["Forecast2"]}
