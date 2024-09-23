@@ -1,0 +1,59 @@
+
+SHEETS
+{"qInfo":{"qId":"008662b7-306c-4d72-8ab1-44e73c37a98e","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","createdDate":"2024-09-23T02:59:23.263Z","modifiedDate":"2024-09-23T02:59:23.263Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"sheet","id":"008662b7-306c-4d72-8ab1-44e73c37a98e","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"443f8b4d-298c-44ae-a8af-3f07e2da3d0f","qType":"sheet"},"qMeta":{"title":"Sales Rep Performance","description":"","createdDate":"2024-09-23T02:59:23.267Z","modifiedDate":"2024-09-23T02:59:23.267Z","published":true,"publishTime":"2023-08-31T07:12:57.245Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"sheet","id":"443f8b4d-298c-44ae-a8af-3f07e2da3d0f","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"22ce150d-b89c-411d-8d56-4459929b28bc","qType":"sheet"},"qMeta":{"title":"My new sheet (1)","description":"","createdDate":"2024-09-23T02:59:23.267Z","modifiedDate":"2024-09-23T02:59:23.267Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"sheet","id":"22ce150d-b89c-411d-8d56-4459929b28bc","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"f659b021-7862-4228-978c-4398bd83b59b","qType":"sheet"},"qMeta":{"title":"Reports","description":"","createdDate":"2024-09-23T02:59:23.283Z","modifiedDate":"2024-09-23T02:59:23.283Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"sheet","id":"f659b021-7862-4228-978c-4398bd83b59b","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"61bec606-ac0c-4ba1-a8a0-013d8662260c","qType":"sheet"},"qMeta":{"title":"Regional Analysis","description":"","createdDate":"2024-09-23T02:59:23.285Z","modifiedDate":"2024-09-23T02:59:23.285Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"sheet","id":"61bec606-ac0c-4ba1-a8a0-013d8662260c","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+
+OBJECTS ON SHEETS
+{"name":"LrQjV","type":"table","col":0,"row":0,"colspan":42,"rowspan":10,"bounds":{"y":0,"x":0,"width":50,"height":25}}
+{"name":"Tjdtkm","type":"scatterplot","col":0,"row":14,"colspan":38,"rowspan":28,"bounds":{"y":33.33333333333333,"x":0,"width":45.83333333333333,"height":66.66666666666666}}
+{"name":"GJbCVY","type":"scatterplot","col":49,"row":14,"colspan":35,"rowspan":28,"bounds":{"y":33.33333333333333,"x":58.333333333333336,"width":41.66666666666667,"height":66.66666666666666}}
+{"name":"GzmaeLy","type":"qlik-variable-input","col":53,"row":11,"colspan":13,"rowspan":3,"bounds":{"y":25,"x":62.5,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"WTtpRQ","type":"qlik-variable-input","col":67,"row":11,"colspan":13,"rowspan":3,"bounds":{"y":25,"x":79.16666666666666,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"AevmjW","type":"kpi","col":53,"row":7,"colspan":13,"rowspan":3,"bounds":{"y":16.666666666666664,"x":62.5,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"DbeFc","type":"kpi","col":67,"row":7,"colspan":13,"rowspan":3,"bounds":{"y":16.666666666666664,"x":79.16666666666666,"width":16.666666666666664,"height":8.333333333333332}}
+{"name":"JJaSg","type":"barchart","col":12,"row":0,"colspan":21,"rowspan":9,"bounds":{"y":0,"x":33.33333333333333,"width":58.333333333333336,"height":50}}
+{"name":"hGGDPbM","type":"auto-chart","col":6,"row":0,"colspan":6,"rowspan":4,"bounds":{"x":16.666666666666664,"y":0,"width":16.666666666666664,"height":25}}
+{"name":"ADpPCm","type":"table","col":14,"row":9,"colspan":16,"rowspan":9,"bounds":{"y":50,"x":37.5,"width":45.83333333333333,"height":50}}
+{"name":"ZvsCyGF","type":"kpi","col":30,"row":9,"colspan":3,"rowspan":3,"bounds":{"y":50,"x":83.33333333333334,"width":8.333333333333332,"height":16.666666666666664}}
+{"name":"hwTma","type":"barchart","col":0,"row":5,"colspan":12,"rowspan":4,"bounds":{"y":25,"x":0,"width":33.33333333333333,"height":25}}
+{"name":"Zdh","type":"table","col":0,"row":9,"colspan":13,"rowspan":6,"bounds":{"y":50,"x":0,"width":36.11111111111111,"height":33.33333333333333}}
+{"name":"vwPxg","type":"kpi","col":0,"row":0,"colspan":6,"rowspan":4,"bounds":{"x":0,"y":0,"width":16.666666666666664,"height":25}}
+{"name":"cWWQLx","type":"qlik-alerting","col":0,"row":0,"colspan":42,"rowspan":10,"bounds":{"y":0,"x":0,"width":50,"height":25}}
+
+DIMENSIONS
+{"qInfo":{"qId":"yKdjjL","qType":"dimension"},"qMeta":{"title":"Sales Rep","description":"","createdDate":"2024-09-23T02:59:23.268Z","modifiedDate":"2024-09-23T02:59:23.268Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"dimension","id":"yKdjjL","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","tags":[],"privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"gzPdw","qType":"dimension"},"qMeta":{"title":"Region","description":"","createdDate":"2024-09-23T02:59:23.282Z","modifiedDate":"2024-09-23T02:59:23.282Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"dimension","id":"gzPdw","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
+
+MEASURES
+{"qInfo":{"qId":"pFkQD","qType":"measure"},"qMeta":{"title":"Target","description":"","createdDate":"2024-09-23T02:59:23.280Z","modifiedDate":"2024-09-23T02:59:23.280Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"measure","id":"pFkQD","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
+{"qInfo":{"qId":"mHPMrR","qType":"measure"},"qMeta":{"title":"Commit","description":"","createdDate":"2024-09-23T02:59:23.281Z","modifiedDate":"2024-09-23T02:59:23.281Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"measure","id":"mHPMrR","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
+{"qInfo":{"qId":"hqhWSH","qType":"measure"},"qMeta":{"title":"% to Target","description":"","createdDate":"2024-09-23T02:59:23.282Z","modifiedDate":"2024-09-23T02:59:23.282Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"measure","id":"hqhWSH","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
+{"qInfo":{"qId":"WfEFfN","qType":"measure"},"qMeta":{"title":"% to Commit","description":"","createdDate":"2024-09-23T02:59:23.283Z","modifiedDate":"2024-09-23T02:59:23.283Z","published":false,"publishTime":"1753-01-01T00:00:00.000Z","approved":false,"qSize":-1,"sourceObject":"","draftObject":"","_resourcetype":"app.object","_objecttype":"measure","id":"WfEFfN","owner":"auth0|c8af168924fe27507e16c69f5f1460a4b5e632a375062d9d3289a034adbe2511","ownerId":"62abc397910db9be28e86547","privileges":["read","update","delete","publish","change_owner"],"tags":[]},"qData":[]}
+
+VARIABLES
+{"qName":"vReloadstatus","qDefinition":"1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"d3b5b3a4-3cc9-4091-b302-cfaceed67f3a","qType":"variable"},"qData":[],"qIsScriptCreated":true}
+{"qName":"index","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"4c34e6a5-21c3-4e99-ab37-df77cb749c31","qType":"variable"},"qData":[]}
+{"qName":"currentName","qDefinition":"Original","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"fbe57325-8313-4a4e-baef-e94be3abdbce","qType":"variable"},"qData":[]}
+{"qName":"V_milestone1","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"4961deb3-af5a-4a2c-864c-cd0d908a4ed3","qType":"variable"},"qData":[]}
+{"qName":"name","qDefinition":"Original","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"e25460f0-4654-447b-b606-8bc1ee002faf","qType":"variable"},"qData":[]}
+{"qName":"matches","qDefinition":"0","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"bdf51778-d769-46b1-b6c5-85445a510f4a","qType":"variable"},"qData":[]}
+{"qName":"V_milestone2","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"8ab7f9ec-0dae-4612-9622-4abf61b323ae","qType":"variable"},"qData":[]}
+
+FIELDS
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":8,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":2,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":2,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":1,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":5,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
+{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
+{"qName":"SalesRep","qCardinal":13,"qTags":["$ascii","$text"],"qSrcTables":["ScatterPlot"]}
+{"qName":"Target","qCardinal":124,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast1"]}
+{"qName":"Commit","qCardinal":126,"qTags":["$numeric","$integer","$keypart"],"qSrcTables":["ScatterPlot","Forecast1"]}
+{"qName":"Milestone1","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["ScatterPlot"]}
+{"qName":"Milestone2","qCardinal":12,"qTags":["$numeric","$integer"],"qSrcTables":["ScatterPlot"]}
+{"qName":"Region","qCardinal":3,"qTags":["$ascii","$text"],"qSrcTables":["Forecast1"]}
+{"qName":"Sales Rep","qCardinal":114,"qTags":["$ascii","$text"],"qSrcTables":["Forecast1"]}
+{"qName":"% to Commit","qCardinal":79,"qTags":["$numeric"],"qSrcTables":["Forecast1"]}
